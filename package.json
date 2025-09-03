@@ -382,7 +382,7 @@
     "http-status-code": "^2.1.0",
     "husky": "^9.1.4",
     "json-schema-merge-allof": "^0.8.1",
-    "lint-staged": "^15.2.9",
+    "lint-staged": "^16.1.6",
     "markdownlint": "^0.34.0",
     "markdownlint-rule-search-replace": "^1.2.0",
     "mkdirp": "^3.0.0",
